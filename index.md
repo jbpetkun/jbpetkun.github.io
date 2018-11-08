@@ -34,7 +34,7 @@ Hi! I am a JD candidate at Yale Law School and a PhD candidate in economics at M
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
-          <li><a href="https://github.com/mbcarlos">GitHub</a></li>
+          <li><a href="https://github.com/jbpetkun">GitHub</a></li>
           <li><a href="https://twitter.com/JonPetkun">Twitter (@JonPetkun)</a></li>
       </ul>
   </div>
