@@ -6,10 +6,11 @@ description: Blue Ham's research
 
 
 
-#### <u>The effects of increased eye contact on feeding portions</u>
-*In this paper I estimate the effect of increased eye contact on the size of feeding portions delivered by my humans. Over a period of several months I varied the amount of time I spent in locked eye contact with my masters while secretely recording the total amount of food provided each day. The results incidate that the relationship between eye contact and portion size is concave, in that as eye contact increases, the portion size increases up until a point where it begins to decrease. Future research will examine whether time spent cuddling exhibits a similar relationship.*
+#### <u>Can (and Should) Judges Be Shamed? Evidence from the "Six-Month List"</u>
+*
+Recent court reform efforts in the United States have focused on speeding up what is perceived to be a slow and burdensome federal civil justice system. But how is speed best achieved, and at what cost to other goals of the civil justice system? I study a Congressionally-enacted reform known as the “six-month list,” which uses social pres- sure to incentivize federal judges to decide cases more quickly. After constructing an original dataset of nearly 500,000 federal district court motions—representing the ap- proximate universe of summary judgment motions in federal civil cases for the period 2004-2014—I exploit quasi-random variation in exposure to the six-month list in order to answer two related questions. First, does the six-month list accomplish its ostensible goal of promoting speedier adjudications? And second, how does the six-month list affect the quality of civil adjudications? Preliminary results indicate that the six-month list does indeed improve speed; the summary judgment motions that are most exposed to the six-month list are resolved almost a full month (15%) faster than those that are least exposed, and overall case durations are similarly impacted. I also find consid- erable heterogeneity across judges, with judges who are young, non-white, or female being among the most responsive to the incentives created by the six-month list. Speed- ier adjudications notwithstanding, I find only mixed evidence of effects on the quality of adjudications. My results suggest that—at least among federal judges—social pres- sure can be an effective substitute for monetary incentives. I interpret these results as consistent with a model of judicial behavior that combines elements of career concerns, procrastination, and multitasking.*
 
-[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf)
+[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/CELS_draft_20181022.pdf)
 
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
