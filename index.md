@@ -2,10 +2,10 @@
 layout: frontpage
 title: Jon Petkun
 description: Jon Petkun is a JD candidate at Yale University and a PhD candidate in economics at MIT. 
-keywords: Blue, Ham, treats, recycling, mail, being a good boy
+keywords: Jon, Petkun, judges, judging
 ---
 
-Blue Ham is a PhD candidate at Broom University. His research interests include analyzing the effectiveness of treat-based incentives such as recycling and getting the mail, as well as designing new methods to protect humans from the adverse effects of rolling trash receptacles.
+Hi! I am a JD candidate at Yale Law School and a PhD candidate in economics at MIT. Before grad school I served as an officer in the U.S. Marine Corps. My economics research is in the field of public economics, and much of my legal research is in the field of empirical civil procedure. I am broadly interested in the legal and economic organization of large public institutions (e.g. the U.S. military; state and federal courts in the U.S.).
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
