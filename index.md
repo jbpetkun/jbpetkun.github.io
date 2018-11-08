@@ -19,7 +19,7 @@ Hi! I am a JD candidate at Yale Law School and a PhD candidate in economics at M
     <div class="row-fluid">
         <div class="span5">
             Jon Petkun<br/>
-            Email: jbpetkun@mit.edu<br/>
+            Email: <a href="mailto:jbpetkun@mit.edu">jbpetkun (at) mit (dot) edu</a><br/>
         </div>
 
         <div class="span2">
