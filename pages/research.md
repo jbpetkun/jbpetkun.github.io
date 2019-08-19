@@ -12,6 +12,13 @@ Recent court reform efforts in the United States have focused on speeding up wha
 
 [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/CELS_draft_20181022.pdf)
 
+#### <u>I Want You! (But Not You): Selection in Military Retention</u>
+
+Government workers provide essential goods and services, but we know little about the determinants of their quality. We complement the existing literature, which has focused on compensation levels, by studying how the structure of common retention incentives affects employee quality in the U.S. military. We combine administrative data with quasi-random variation to find that low-ability soldiers are relatively more respon- sive to both lump-sum bonuses and early retirement benefits, and both effects are large enough to lower the organization’s average ability level. We provide suggestive evidence that personal discount rates drive these selection patterns but that credit constraints do not.
+
+
+[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/Manuscript_PPS.pdf)
+
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
