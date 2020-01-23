@@ -5,7 +5,7 @@ description: Jon Petkun is a JD candidate at Yale University and a PhD candidate
 keywords: Jon, Jonathan, Petkun, academic, website
 ---
 
-I am a JD candidate at Yale Law School and a PhD candidate in economics at MIT. Before grad school I served as an officer in the U.S. Marine Corps. My economics research is in the field of public economics, and my current legal research includes topics in empirical civil procedure and employment law. I am broadly interested in the legal and economic organization of large public institutions (especially the U.S. military and state and federal courts in the U.S.).
+I am a PhD candidate in economics at MIT and a Senior Liman Research Fellow in Residence at Yale Law School, where I recently finished my JD. Before grad school I served as an officer in the U.S. Marine Corps. My economics research is in the field of public economics, and my current legal research includes topics in empirical civil procedure, access to justice, and employment law. I am broadly interested in the legal and economic organization of large public institutions (especially the U.S. military and state and federal courts in the U.S.).
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
