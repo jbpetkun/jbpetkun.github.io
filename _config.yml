@@ -85,9 +85,6 @@ JB :
     google:
       tracking_id: "UA-128977256-2"
       anonymize_ip: false # default
-      
- # Google Analytics
-google_analytics: UA-128977256-2
 
   # Settings for sharing helper.
   # Sharing is for things like tweet, plusone, like, reddit buttons etc.
