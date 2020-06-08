@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-description: Blue Ham's research
+description: Jon Petkun's research
 ---
 
 
@@ -14,7 +14,7 @@ Recent court reform efforts in the United States have focused on speeding up wha
 
 #### <u>I Want You! (But Not You): Selection in Military Retention (with Christina Patterson and William Skimmyhorn)</u>
 
-Government workers provide essential goods and services, but we know little about the determinants of their quality. We complement the existing literature, which has focused on compensation levels, by studying how the structure of common retention incentives affects employee quality in the U.S. military. We combine administrative data with quasi-random variation to find that low-ability soldiers are relatively more respon- sive to both lump-sum bonuses and early retirement benefits, and both effects are large enough to lower the organization’s average ability level. We provide suggestive evidence that personal discount rates drive these selection patterns but that credit constraints do not.
+Government workers provide essential goods and services, but less is known about the determinants of their quality. We complement the existing literature, which has focused on compensation levels, by studying how the structure of common retention incentives affects employee quality in the U.S. military. We combine administrative data with quasi-random variation to find that low-ability soldiers are relatively more responsive to both lump-sum bonuses and early retirement benefits, and both effects are large enough to lower the organization’s average ability level. We provide suggestive evidence that neither access to credit nor differences in personal discount rates explain these selection patterns.
 
 
 [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/Manuscript_PPS.pdf)
