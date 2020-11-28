@@ -1,11 +1,11 @@
 ---
 layout: frontpage
 title: Jon Petkun
-description: Jon Petkun is a JD candidate at Yale University and a PhD candidate in economics at MIT. 
+description: Jon Petkun is a research affiliate at Yale Law School and a recent JD/PhD graduate from Yale Law School and MIT. 
 keywords: Jon, Jonathan, Petkun, academic, website
 ---
 
-Hello! I am an economist and a legal scholar, and I currently serve as a Senior Liman Research Fellow in Residence at Yale Law School. My economics research is in the field of public economics, and my current legal research includes topics in empirical civil procedure, access to justice, employment law, and tax. I am broadly interested in the legal and economic organization of large public institutions (especially the U.S. military and state and federal courts in the U.S.).
+Hello! I am an economist and a legal scholar, and I currently serve as a Senior Liman Research Affiliate at Yale Law School. I am also currently serving as a judicial law clerk. My economics research is in the field of public economics, and my current legal research includes topics in empirical civil procedure, access to justice, employment law, and tax. I am broadly interested in the legal and economic organization of large public institutions (especially the U.S. military and state and federal courts in the U.S.).
 
 I hold a JD from Yale Law School (2019) and a PhD in economics from MIT (2020). Before grad school I served as an officer in the U.S. Marine Corps.
 
