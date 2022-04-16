@@ -27,8 +27,8 @@ I hold a JD from Yale Law School (2019) and a PhD in economics from MIT (2020), 
         </div>
 
         <div class="span2">
-        <a href="../assets/headshot.jpg">
-            <img src="../assets/headshot.jpg"
+        <a href="../assets/headshot.jpeg">
+            <img src="../assets/headshot.jpeg"
                   title="Jon Petkun" alt="Jon Petkun"/></a>
         </div>
     </div>
