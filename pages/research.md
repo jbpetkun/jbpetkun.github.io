@@ -1,4 +1,3 @@
-![image](https://github.com/jbpetkun/jbpetkun.github.io/assets/8118896/96765c93-f144-4816-bec1-d5ace1035170)---
 layout: page
 title: Research
 description: Jon Petkun's research
