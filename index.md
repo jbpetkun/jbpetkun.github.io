@@ -21,7 +21,7 @@ I hold a JD from Yale Law School (2019) and a PhD in economics from MIT (2020), 
     <div class="row-fluid">
         <div class="span5">
             Jon Petkun<br/>
-            Email: <a href="mailto:jonathan.petkun@yale.edu">jonathan (dot) petkun (at) yale (dot) edu</a><br/>
+            Email: <a href="mailto:petkun@law.duke.edu">jonathan (dot) petkun (at) duke (dot) edu</a><br/>
         </div>
 
         <div class="span2">
