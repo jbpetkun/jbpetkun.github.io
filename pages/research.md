@@ -5,8 +5,12 @@
 #### <a href="{{ BASE_PATH}}/pages/publications/civilian-harm-and-military-legitimacy-evidence-from-the-battle-of-mosul-2.pdf">Civilian Harm and Military Legitimacy in War: Evidence from the Battle for Mosul in Iraq (with Benjamin C. Krick and Mara R. Revkin), 79 _International Organization_ 2 (2025): 332-357.</a>
 The legitimacy of armed forces in the eyes of civilians is increasingly recognized as crucial not only for battlefield effectiveness but also for conflict resolution and peacebuilding. However, the micro-determinants of "military legitimacy" are poorly understood. We argue that perceptions of military legitimacy are shaped by two key dimensions of warfare: just _cause_ and just _conduct_. Leveraging naturally occurring variation during one of the most deadly urban battles in recent history---the multi-national campaign to defeat the Islamic State in Mosul, Iraq---we evaluate our theory with a mixed-methods design combining original survey data, satellite imagery, and interviews. Civilians living in neighborhoods where armed forces were less careful to protect civilians view those forces as less legitimate than civilians elsewhere. Surprisingly, these results persist after conditioning for personal experiences with harm, suggesting that perceptions are influenced not only by victimization---consistent with previous studies---but also by beliefs about the morality of armed forces' conduct and the cause for which they are fighting.
 
+<br/>
+
 #### <a href="{{ BASE_PATH}}/pages/publications/93-Geo.-Wash.-L.-Rev.-349.pdf">The Judicial Administrative Power (with Joseph Schottenfeld), 93 _George Washington Law Review_ 349 (2025): 349-409.</a>
 The article clarifies the relationship between judicial administration—the host of non-adjudicatory activities the federal judiciary performs—and Article III adjudication. Today, federal judges and other judicial actors exercise a wide range of administrative powers, ranging from studying, testing, and promulgating rules of court practice and procedure to overseeing federal pretrial detention services or choosing federal public defenders. We show how, over the past century, the federal judiciary has accrued administrative responsibilities largely in the interests of promoting the practical fairness, efficiency, or efficacy of federal adjudication. We then organize the array of judicial administrative activities. When judges and judicial staff engage in judicial administration, they are ordinarily performing one of three actions: they are rulemaking; they are managing; and they are communicating. Based on our descriptive account, we argue that the judicial administrative power carries significant and under-accounted consequences that go far beyond the practical problems of adjudication that gave rise to it. Freed from the formal constraints Article III adjudication, judicial administration upends core notions of what makes the judiciary the judiciary and of how the judiciary ought to relate to its coordinate branches. We therefore conclude with a set of proposed reforms that would redress some of these challenges by treating the judicial administrative power as administrative first and judicial second—not the other way around.
+
+<br/><br/>
 
 ---
 ### Working Papers
@@ -18,6 +22,8 @@ I study a judicial reform—the “six-month list”—which requires U.S. court
 [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/SixMonthList_Fall2025.pdf)
 
 [click here for online appendix]({{ BASE_PATH}}/pages/working_papers/SixMonthList_Fall2025_appendix_only.pdf)
+
+<br/>
 
 #### <a href="{{ BASE_PATH}}/pages/working_papers/MilitarySelection_June2025.pdf">Bonuses, Buy-outs, and Worker Sorting in the Public Sector: Evidence from the U.S. Military (with Christina Patterson and William Skimmyhorn) (_working paper_)</a>
 
