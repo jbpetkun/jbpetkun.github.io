@@ -5,9 +5,9 @@ description: Jon Petkun is an Associate Professor of Law at Duke University Scho
 keywords: Jon, Jonathan, Petkun, academic, website
 ---
 
-Hello! I am an economist and a legal scholar, and I'm currently an Associate Professor of Law at Duke University. I previously served as a Senior Liman Research Affiliate at Yale Law School while also serving as a judicial law clerk. My economics research is in the field of public economics, and my current legal research includes topics in empirical civil procedure, federal &amp; state courts, access to justice, and international law. I am broadly interested in the legal and economic organization of large public institutions (especially the U.S. military and state and federal courts in the U.S.).
+Hello! I am an economist and a legal scholar, and I'm currently an Associate Professor of Law at Duke University. I previously served as a Senior Liman Research Affiliate at Yale Law School while also serving as a judicial law clerk. My economics research includes topics in public economics, labor economics, personnel economics, and the economics of national security; my legal research includes topics in empirical civil procedure, judicial administration, federal &amp; state courts, access to justice, and international law. I am broadly interested in the legal and economic organization of large public institutions (especially the U.S. military and state and federal courts in the U.S.).
 
-I hold a JD from Yale Law School (2019) and a PhD in economics from MIT (2020), and I'm also a graduate of Swarthmore College (2007) and the terrific public schools of Beaverton, Oregon. Before returning to academia I served as an active-duty officer in the U.S. Marine Corps, and I'm a veteran of both Iraq and Afghanistan.
+I hold a JD from Yale Law School and a PhD in economics from MIT, and I'm also a graduate of Swarthmore College and the terrific public schools of Beaverton, Oregon. Before returning to academia I served as an active-duty officer in the U.S. Marine Corps, and I'm a veteran of both Iraq and Afghanistan.
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
