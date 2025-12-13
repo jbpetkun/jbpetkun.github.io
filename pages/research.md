@@ -1,6 +1,7 @@
 layout: page
 title: Research
 description: Jon Petkun's research
+# Research
 ---
 
 #### <a href="{{ BASE_PATH}}/pages/publications/civilian-harm-and-military-legitimacy-evidence-from-the-battle-of-mosul-2.pdf">Civilian Harm and Military Legitimacy in War: Evidence from the Battle for Mosul in Iraq"</a>
