@@ -1,7 +1,7 @@
 ---
 ### Peer-reviewed articles
 ---
-#### <a href="{{ BASE_PATH}}/pages/publications/Non_Monetary_Incentives_JPubE_preprint.pdf">Non-Monetary Incentives and Bureaucratic Performance: Evidence from U.S. Courts, 262 _Journal of Public Economics_ (October 2026). </a>
+#### <a href="{{ BASE_PATH}}/pages/publications/Nonmonetary_Incentives_JPubE_preprint.pdf">Non-Monetary Incentives and Bureaucratic Performance: Evidence from U.S. Courts, 262 _Journal of Public Economics_ (October 2026). </a>
 Federal judges---who enjoy lifetime tenure and constitutionally protected salaries---represent an especially hard test case for incentive-based bureaucratic reform. I study the “six-month list,” a reform requiring U.S. federal courts to publicly identify judges with overdue matters. Using a regression discontinuity design and other methods, I find that matters most exposed are resolved approximately 14% faster than those least exposed, with larger effects among younger, non-white, and female judges. The speed gains come with tradeoffs: upfront time savings are partially offset by downstream delays, and more-exposed matters are more likely to be reversed on appeal. A bunching analysis estimates aggregate time savings of approximately 4%, demonstrating that non-monetary levers can shift behavior even among highly insulated elite professionals.
 
 <br/>
