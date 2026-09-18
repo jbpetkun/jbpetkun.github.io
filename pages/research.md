@@ -1,4 +1,3 @@
-# Research
 ---
 ### Peer-reviewed articles
 ---
