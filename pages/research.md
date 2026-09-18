@@ -41,6 +41,9 @@ Despite episodes and areas of retrenchment, modern civil procedure continues to 
 
 <br/>
 
+#### Do Military Housing Allowances Inflate Local House Prices? (with Paul Goldsmith-Pinkham) (semi-permanent working paper).</a>
+
+<br/>
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
