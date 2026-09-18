@@ -7,7 +7,7 @@ Federal judges---who enjoy lifetime tenure and constitutionally protected salari
 
 <br/>
 
-#### <a href="{{ BASE_PATH}}/pages/working_papers/Bonuses_Buyouts_preprint_May2026.pdf">Bonuses, Buy-outs, and Worker Sorting in the Public Sector: Evidence from the U.S. Military, _Management Science_ (_forthcoming_). </a>
+#### <a href="{{ BASE_PATH}}/pages/working_papers/Bonuses_Buyouts_preprint_May2026.pdf">Bonuses, Buy-outs, and Worker Sorting in the Public Sector: Evidence from the U.S. Military (with Christina Patterson and William Skimmyhorn), _Management Science_ (_forthcoming_). </a>
 Constrained in their flexibility to hire and fire personnel, public sector organizations must pay close attention to employee retention. With few other options at their disposal, managers frequently use cash bonuses to incentivize retention or buy-out offers to incentivize exit. Both policies are known to be effective at achieving quantitative staffing goals, but how do such
 policies affect worker sorting? We develop a model of public employee retention to show that the marginal effect of cash retention incentives is theoretically non-monotone in ability, and that predicting which workers are likely to be most responsive requires empirical investigation. We then leverage administrative data and quasi-random exposure to both lump-sum bonuses and early retirement buy-outs in the U.S. Army to estimate their effects on the quality of retained workers. We find that low-ability soldiers are relatively more responsive to both lump-sum bonuses and early retirement offers, and both effects are large enough to meaningfully alter the organization’s average ability profile. We provide suggestive evidence that differences in financial liquidity, time preferences, and individual taste for service may help explain the observed patterns of selection.
 
@@ -36,15 +36,23 @@ Federal judges spend considerable time on activities that fall outside the adjud
 ### Working Papers
 ---
 
-#### Laxity, Leniency, and the Liberal Rules of Civil Procedure (with Joseph Schottenfeld) (law-review-style working paper)</a>
+#### <a Laxity, Leniency, and the Liberal Rules of Civil Procedure (with Joseph Schottenfeld) (law-review-style working paper).</a>
 Despite episodes and areas of retrenchment, modern civil procedure continues to be animated by a "liberal ethos" that favors access to the courts and resolution on the merits. This Article examines one mechanism courts use to pursue that ethos: the forgiveness of procedural error. It develops a framework for understanding how judges remediate errors in an adversarial system built to expose them, distinguishing two modes of forgiveness. Laxity construes a rule or a party's action charitably, letting a case proceed as though no error occurred. Leniency gives parties a chance to correct the error. Both appear throughout our system of procedure, most visibly in the interpretation of pleadings, where courts liberally construe pleadings (laxity) and freely grant leave to amend defective ones (leniency). With the benefit of this framework, we can start to answer a commonplace but underexamined question---what a court should do when an error could be addressed by either laxity or leniency. We argue that laxity and leniency are complementary in theory but often in tension in practice. We also compare forgiveness to other means of achieving liberal adjudication, such as procedural simplification, party instruction, and accommodation.
 
 <br/>
 
-#### Do Military Housing Allowances Inflate Local House Prices? (with Paul Goldsmith-Pinkham) (semi-permanent working paper).</a>
+#### <a Do Military Housing Allowances Inflate Local House Prices? (with Paul Goldsmith-Pinkham) (semi-permanent working paper).</a>
 
 <br/>
 
+---
+### Popular & shorter works
+---
+
+#### <a href="https://www.foreignaffairs.com/united-states/progressive-case-american-power"> The Progressive Case for American Power: Retrenchment Would Do More Harm Than Good (with Megan A. Stewart and Mara R. Revkin), _Foreign Affairs_ (Jun.
+2024).</a>
+
+<br/>
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
 <!--
