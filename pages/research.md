@@ -35,12 +35,12 @@ Federal judges spend considerable time on activities that fall outside the adjud
 ### Working Papers
 ---
 
-#### <a Laxity, Leniency, and the Liberal Rules of Civil Procedure (with Joseph Schottenfeld) (law-review-style working paper).</a>
+#### <a> Laxity, Leniency, and the Liberal Rules of Civil Procedure (with Joseph Schottenfeld) (law-review-style working paper).</a>
 Despite episodes and areas of retrenchment, modern civil procedure continues to be animated by a "liberal ethos" that favors access to the courts and resolution on the merits. This Article examines one mechanism courts use to pursue that ethos: the forgiveness of procedural error. It develops a framework for understanding how judges remediate errors in an adversarial system built to expose them, distinguishing two modes of forgiveness. Laxity construes a rule or a party's action charitably, letting a case proceed as though no error occurred. Leniency gives parties a chance to correct the error. Both appear throughout our system of procedure, most visibly in the interpretation of pleadings, where courts liberally construe pleadings (laxity) and freely grant leave to amend defective ones (leniency). With the benefit of this framework, we can start to answer a commonplace but underexamined question---what a court should do when an error could be addressed by either laxity or leniency. We argue that laxity and leniency are complementary in theory but often in tension in practice. We also compare forgiveness to other means of achieving liberal adjudication, such as procedural simplification, party instruction, and accommodation.
 
 <br/>
 
-#### <a Do Military Housing Allowances Inflate Local House Prices? (with Paul Goldsmith-Pinkham) (semi-permanent working paper).</a>
+#### <a> Do Military Housing Allowances Inflate Local House Prices? (with Paul Goldsmith-Pinkham) (semi-permanent working paper).</a>
 
 <br/>
 
@@ -48,8 +48,7 @@ Despite episodes and areas of retrenchment, modern civil procedure continues to 
 ### Popular & shorter works
 ---
 
-#### <a href="https://www.foreignaffairs.com/united-states/progressive-case-american-power"> The Progressive Case for American Power: Retrenchment Would Do More Harm Than Good (with Megan A. Stewart and Mara R. Revkin), _Foreign Affairs_ (Jun.
-2024).</a>
+#### <a href="https://www.foreignaffairs.com/united-states/progressive-case-american-power"> The Progressive Case for American Power: Retrenchment Would Do More Harm Than Good (with Megan A. Stewart and Mara R. Revkin), _Foreign Affairs_ (June 2024).</a>
 
 <br/>
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
